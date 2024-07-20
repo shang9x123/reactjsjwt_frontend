@@ -1,4 +1,4 @@
-export const base_url = 'https://account.monngonne.com/api/';
+export const base_url = '';
 const expiresday = new Date();
 const expires60day = new Date();
 expiresday.setDate(expiresday.getDate() + 1);
